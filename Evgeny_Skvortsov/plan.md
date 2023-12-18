@@ -16,4 +16,4 @@
 ####  Не реализовано:
   - разворот листов, отсканированных "вверх ногами" на 180 гр.;
   - устранение шума на изображении.
-Ссылка на Colab файл: https://colab.research.google.com/drive/1FEcUbkJvqj__WWBT6f5UW96xIKG3RFiB?usp=sharing
+#### Ссылка на Colab файл: https://colab.research.google.com/drive/1FEcUbkJvqj__WWBT6f5UW96xIKG3RFiB?usp=sharing
