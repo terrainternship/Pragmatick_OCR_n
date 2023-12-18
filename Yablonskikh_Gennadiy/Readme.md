@@ -3,9 +3,9 @@
 Рассмотрть проект скрипта для распознования и выравнивания изображения в случае поворта на 90-180 градусов.
 
 ## Импорт библиотек: 
-from google.colab import files 
+"from google.colab import files 
 import cv2 
-import numpy as np 
+import numpy as np "
 
 Здесь происходит импорт необходимых библиотек: files из Google Colab для загрузки файлов, cv2 для работы с изображениями через OpenCV, и numpy для работы с массивами.
 
