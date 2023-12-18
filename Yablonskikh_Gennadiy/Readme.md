@@ -6,6 +6,7 @@
 from google.colab import files 
 import cv2 
 import numpy as np 
+
 Здесь происходит импорт необходимых библиотек: files из Google Colab для загрузки файлов, cv2 для работы с изображениями через OpenCV, и numpy для работы с массивами.
 
 ## Определение констант: 
