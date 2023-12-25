@@ -41,3 +41,5 @@ print("Сохраненное выровненное изображение: ", 
 
 ## Ссылка на проект скрипта при распозновании изображения
 https://colab.research.google.com/drive/1_t_Vrtibg4v9MmPPR-KoVhmQXBMi48rP?usp=sharing
+## 2 версия (необходимо найденное изображеное повернутое на 90-180 градусов сохранить под именем подлинника)
+https://colab.research.google.com/drive/1pZwuiJ9jd5LTJ3Kq4Q703IbO01eaBOFz?usp=sharing
